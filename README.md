@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/11cs0cHw6WnoFa/giphy.gif"/>
 </div>
 
-I'm **Nick**! And I'm a data scientist from Melbourne, Australia. 
+I'm **Nick**! And I'm a data lover from Melbourne, Australia. 
 
-- :robot: ML/AI
+- :robot: ML/AI/Data eng.
 - 🌱 Exploring the world through data
 - :alembic: BSc/GradDipPsych
 - 🏌️‍♂️ Golf fanatic
