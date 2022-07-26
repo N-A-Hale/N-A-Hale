@@ -4,7 +4,7 @@
 
 I'm **Nick**! And I'm a data lover from Melbourne, Australia. 
 
-- Azure
+- Microsoft Certified Azure Data Engineer Associate (DP-203)
 - :robot: ML/AI/Data eng.
 - 🌱 Exploring the world through data
 - :alembic: BSc/GradDipPsych
